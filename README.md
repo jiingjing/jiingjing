@@ -8,3 +8,9 @@ Hopefully over the next few months, I will create new projects and link them her
 ### Projects :
 
 - none (yet)
+
+### Python :
+
+I have used Codeacademy to begin learning basic Python programming and eventualy I am aiming to create a game using it.
+
+I have started exploring by using turtle to create shapes.
