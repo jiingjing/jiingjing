@@ -21,7 +21,7 @@ This led to me wanting to create a game - I found a very helpful tutorial to mak
 
 link to tutorial : https://www.youtube.com/watch?v=C6jJg9Zan7w
 
-link to code of game made : https://github.com/jiingjing/Ping-Pong
+link to code of game made : https://github.com/jiingjing/Ping-Pong/blob/master/pingpong1.py
 
 <img src="https://github.com/jiingjing/Ping-Pong/blob/master/pingpong.PNG" width="500">
 
