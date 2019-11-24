@@ -26,3 +26,7 @@ link to code of game made : https://github.com/jiingjing/Ping-Pong/blob/master/p
 <img src="https://github.com/jiingjing/Ping-Pong/blob/master/pingpong.PNG" width="500">
 
 I have now decided to try and enhance the game by making it a fastest to 10 wins
+
+<img src="https://github.com/jiingjing/Ping-Pong/blob/master/pingpong2.PNG" width="500">
+
+<img src="https://github.com/jiingjing/Ping-Pong/blob/master/pingpong3.PNG" width="500">
