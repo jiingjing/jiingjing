@@ -7,7 +7,7 @@ Hopefully over the next few months, I will create new projects and link them her
 
 ### Projects :
 
-- none (yet)
+- ping pong game 
 
 ### Python :
 
