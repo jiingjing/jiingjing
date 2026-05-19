@@ -68,3 +68,8 @@ class AboutMe:
 me = AboutMe()
 me.introduction()
 ```
+
+```
+Output:
+Hey, I'm a student called Jing (she/her). I code in Python, R, SQL, JavaScript, and Lua. I enjoy coding, piano, and crochet.
+```
