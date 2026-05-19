@@ -1,32 +1,46 @@
-## Welcome to my page!
+<h2> Hi, I'm Jing! :sunny: </h2>
 
-I am new to coding and hope to improve my skills and learn more.
-Hopefully over the next few months, I will create new projects and link them here almost as a progress tracker.
+<div align="center">
+<p><em>Maths, Stats and DS @ UoB :bathtub: 
+</br>Placement @ <a href="https://www.crick.ac.uk/about-us">The FCI</a> :dna: 
+</em></p>
 
-![Image of dog](https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAkdAfCXFRfkAGAtsUJaKKJvQeMZUciSeMwkLSq0wWzxu)
+[![Rooms.xyz: jing](https://img.shields.io/badge/-jing@Rooms-pink?style=flat-square&logoColor=white&link=https://rooms.xyz/jing)](https://rooms.xyz/jing)
+[![GitHub Jing](https://img.shields.io/github/followers/jing?label=follow&style=social)](https://github.com/jiingjing)
 
-### Projects :
+</div>
 
-- ping pong game 
+---
 
-### Python :
+<h3> About me :dog: </h3>
 
-I have used Codeacademy to begin learning basic Python programming and eventualy I am aiming to create a game using it.
+```python
+class AboutMe:
 
-I have started exploring by using turtle to create shapes.
+    def __init__(self):
+        self.name = "Jing"
+        self.role = "student"
+        self.programming_languages = ["Python", "R", "SQL", "JavaScript", "Lua"]
+        self.pronouns = "She/Her"
+        self.hobbies = ["coding", "piano", "crochet"]
 
-![Image of turtle](https://github.com/jiingjing/jiingjing.github.io/blob/master/turtle%20circle.PNG)etc
+    def list_to_text(self, item_list):
+        first_items = item_list[:-1]  # all items in list except last item
+        text_list = ", ".join(first_items)  # join items with commas
 
-This led to me wanting to create a game - I found a very helpful tutorial to make a basic ping pong game 
+        last_item = item_list[-1]  # last item in list
+        text_list = ", and ".join(
+            [text_list, last_item]
+        )  # join last item to others with 'and'
+        return text_list
 
-link to tutorial : https://www.youtube.com/watch?v=C6jJg9Zan7w
+    def introduction(self):
+        programming_languages_text = self.list_to_text(self.programming_languages)
+        hobbies_text = self.list_to_text(self.hobbies)
+        print(
+            f"Hey, I'm a {self.role} called {self.name} ({self.pronouns}). I code in {programming_languages_text}. I enjoy {hobbies_text}."
+        )
 
-link to code of game made : https://github.com/jiingjing/Ping-Pong/blob/master/pingpong1.py
-
-<img src="https://github.com/jiingjing/Ping-Pong/blob/master/pingpong.PNG" width="500">
-
-I have now decided to try and enhance the game by making it a fastest to 10 wins
-
-<img src="https://github.com/jiingjing/Ping-Pong/blob/master/pingpong2.PNG" width="500">
-
-<img src="https://github.com/jiingjing/Ping-Pong/blob/master/pingpong3.PNG" width="500">
+me = AboutMe()
+me.introduction()
+```
