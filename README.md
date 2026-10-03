@@ -2,9 +2,11 @@
 
 <div align="center">
 <p><em>Maths, Stats and DS @ UoB :bathtub: 
-</br>Placement @ <a href="https://www.crick.ac.uk/about-us">The FCI</a> :dna: 
+</br>Placement @ <a href="https://www.crick.ac.uk/about-us">The FCI</a> :microbe:
+</br>Cancer Genomics and DS @ BCI, QMUL :dna:
 </em></p>
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logoColor=white&link=https://jiingjing.github.io)](https://jiingjing.github.io)
 [![Rooms.xyz: jing](https://img.shields.io/badge/-jing@Rooms-pink?style=flat-square&logoColor=white&link=https://rooms.xyz/jing)](https://rooms.xyz/jing)
 [![GitHub Jing](https://img.shields.io/github/followers/jing?label=follow&style=social)](https://github.com/jiingjing)
 
